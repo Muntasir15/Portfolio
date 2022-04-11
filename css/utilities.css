@@ -21,24 +21,24 @@
     transition: all .3s ease;
 }
 .btn-primary{
-    background: var(--dark_green);
+    background: var(--green);
     color: var(--pure);
 
 }
 .btn-primary:hover{
     background: transparent;
-    border-color: var(--yellow);
-    color: var(--yellow);
+    border-color: var(--dark_light);
+    color: var(--dark_light);
 }
 
 .btn-secondary{
     background: transparent;
-    border-color: var(--yellow);
-    color: var(--yellow);
+    border-color: var(--dark_light);
+    color: var(--dark_light);
 }
 
 .btn-secondary:hover{
-    background:var(--dark_green) ;
+    background:var(--green) ;
     color: var(--pure);
 }
 
